@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Muhamad Luthfi Abdullah! 👋</h1>
   
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;IoT+Hardware+Enthusiast;Informatics+Student+at+UPGRIS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+%26+Web+Development;GIS+%26+Information+Technology;Informatics+Student+at+UPGRIS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,8 +14,8 @@
       <h3>🚀 About Me</h3>
       <ul>
         <li>🎓 Informatics student at <b>Universitas PGRI Semarang</b>.</li>
-        <li>💻 Specializing in <b>Backend Development</b> (Node.js, Express, PHP, Prisma) & <b>IoT Systems</b> (ESP32).</li>
-        <li>🌍 Currently exploring GIS spatial analysis (QGIS) and building smart automated systems.</li>
+        <li>💻 Interested in <b>Software Development</b>, <b>Web Development</b>, <b>GIS</b>, and <b>Information Technology</b>.</li>
+        <li>🌱 I enjoy exploring new technologies, building applications, and solving problems through academic and personal projects.</li>
         <li>📍 Based in Semarang & Pekalongan, Central Java.</li>
       </ul>
     </td>
@@ -36,37 +36,87 @@
 
 ---
 
-### 🛠️ Featured Projects
+### 💻 Technologies & Tools
 
-* **University LMS Backend API** 🎓
-  Developed robust backend services for a university Learning Management System using Node.js, Express, Prisma ORM, and PostgreSQL hosted on Supabase.
-* **Data si Tapir Sortir Bandeng (IoT Sorter)** 🐟
-  An automated milkfish and bottle sorter prototype built with an ESP32 micro-controller, dual servo motors, ultrasonic sensors, and integrated with a Telegram bot for real-time notifications.
-* **Vehicle Selection DSS (SAW Algorithm)** 🚗
-  A Decision Support System application utilizing the Simple Additive Weighting (SAW) algorithm to evaluate and recommend vehicle selections.
-* **Smart Drop Box** 📦
-  An IoT-based secure drop box utilizing an ESP32, 12V solenoid lock, relay module, and a Telegram bot interface for remote access control.
-* **Interactive Web Experiences** ✨
-  Created specialized interactive websites including a university KKL study trip to Bali profile and a 3D birthday celebration website featuring animated envelopes and media galleries.
+**Programming & Frontend:**  
+<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" /></a>
+
+**Backend, Database & Tools:**  
+<a href="#"><img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 📂 Projects & Academic Works
 
-**Web Development:**  
-<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+**1. Web Development**
+* **REST API E-Commerce** – Full-stack application using Nuxt.js and Golang.
+* **Personal Portfolio Website** – Personal website built with HTML and CSS.
+* **KKL Informatika UPGRIS 2026** – Information website for university field study activities.
+* **Interactive Birthday Letter** – Interactive birthday greeting website.
+* **English Vocabulary Application** – Vocabulary learning application with favorite word management.
 
-**Databases & ORM:**  
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+**2. Python & Object-Oriented Programming**
+* **Vehicle Collection Management System** – Vehicle management application implementing inheritance, encapsulation, and polymorphism.
 
-**Hardware, IoT & Others:**  
-<a href="#"><img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+**3. Geographic Information System (GIS)**
+* **Population Density & Student Analysis** – Spatial analysis of population density and SLTP student distribution across 19 districts in Pekalongan Regency using QGIS.
+
+**4. Networking**
+* **Hotel Network Topology** – Network simulation using Cisco Packet Tracer.
+* **VLAN Network Design** – Department-based network segmentation for PT Solusi Digital.
+* **Wireless Network** – Wireless networking concepts and implementation studies.
+
+**5. Software Engineering**
+* **CRM System Analysis** – Requirements engineering, use cases, user stories, and SRS documentation.
+* **Software Project Management** – WBS, RACI, project scheduling, budgeting, and risk management.
+* **Software Engineering Studies** – SDLC, Waterfall, DevOps, and software estimation.
+
+**6. Quality Assurance & UI/UX**
+* **ShopeePay QRIS Testing** – Functional testing and test case documentation.
+* **Trans Semarang UI/UX Evaluation** – User interface and usability evaluation.
+* **Shneiderman's Eight Golden Rules** – User interface design principles.
+
+**7. Business & Entrepreneurship**
+* **GASIST (Game Asisten)** – Business Model Canvas for a gaming assistance service.
+
+**8. Cybersecurity & Cryptography**
+* **Double Transposition Cipher** – Encryption and decryption implementation studies.
+* **Myszkowski Transposition** – Classical cryptography study.
+* **SIAKAD Cybersecurity Case Study** – Information system security analysis.
+
+**9. Artificial Intelligence**
+* **Intelligent Systems: Present and Future** – Academic paper exploring current and future intelligent system technologies.
+
+---
+
+### 🎯 Goals
+- 🚀 Improve programming and problem-solving skills.
+- 🛠️ Build useful web-based applications.
+- 🌍 Explore GIS and spatial data analysis.
+- 📐 Understand software engineering practices.
+- 💡 Develop real-world projects and contribute to technology.
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:luthfiabdullahmuhamad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/62895333227653"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/mluthfi_1006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Luthfi1006"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">⭐ <i>Thank you for visiting my GitHub profile!</i> ⭐</p>
