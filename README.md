@@ -20,8 +20,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <!-- Animasi boneka/maskot hacker ngetik -->
-      <img src="https://media.tenor.com/71jCInE4s8MAAAAi/hacker-hacking.gif" width="100%" alt="Hacker Mascot Animation"/>
+      <img src="https://github.com/user-attachments/assets/7094a88c-76fe-4cdf-8aa1-b9f637069759" width="100%" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
