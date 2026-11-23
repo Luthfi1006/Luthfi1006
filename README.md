@@ -1,4 +1,4 @@
-<!-- Header Gelombang (Sudah Diperbaiki) -->
+<!-- Header Gelombang -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B73,100:00D8FF&height=200&section=header&text=Muhamad%20Luthfi%20Abdullah&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Web%20Dev%20%E2%80%A2%20GIS%20%E2%80%A2%20IT&descAlignY=58&descSize=16" width="100%" />
 
@@ -8,7 +8,6 @@
 
   <br/>
 
-  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Luthfi1006&label=Profile%20Views&color=0078D4&style=for-the-badge" alt="Profile Views" />
 </div>
 
@@ -25,6 +24,34 @@
 * 📍 Based in Semarang & Pekalongan, Central Java.
 
 <br clear="both"/>
+
+---
+
+### 🏆 RPG Trophies & Partner Pokémon
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Luthfi1006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies" />
+  <br/><br/>
+  <img src="https://github-readme-pokemon.vercel.app/api?username=Luthfi1006" alt="Partner Pokemon" />
+</div>
+
+---
+
+### 🏙️ 3D Isometric Contribution City
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luthfi1006/Luthfi1006/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution City" />
+</div>
+
+---
+
+### 🕹️ Contribution Arcade (Pac-Man & Snake)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Luthfi1006/Luthfi1006/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man Contribution Animation" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Luthfi1006/Luthfi1006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Animation" />
+</div>
 
 ---
 
