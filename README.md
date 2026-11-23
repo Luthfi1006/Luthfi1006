@@ -1,6 +1,6 @@
-<!-- Header Gelombang -->
+<!-- Header Gelombang (Sudah Diperbaiki) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B73,100:00D8FF&height=200&section=header&text=Muhamad%20Luthfi%20Abdullah&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Web%20Dev%20%26%20GIS%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B73,100:00D8FF&height=200&section=header&text=Muhamad%20Luthfi%20Abdullah&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Web%20Dev%20%E2%80%A2%20GIS%20%E2%80%A2%20IT&descAlignY=58&descSize=16" width="100%" />
 
   <a href="https://github.com/denvercoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+%26+Web+Development;GIS+%26+Information+Technology;Informatics+Student+at+UPGRIS" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 <br/>
 
-<!-- About Me Tanpa Garis Kotak Tabel -->
+<!-- About Me -->
 <img align="right" width="38%" src="https://github.com/user-attachments/assets/7094a88c-76fe-4cdf-8aa1-b9f637069759" alt="Coding Animation" />
 
 ### 🚀 About Me
@@ -63,7 +63,7 @@
   <summary><b>1. Web Development</b></summary>
 
   * **REST API E-Commerce** – Full-stack application using Nuxt.js and Golang.
-  * **Personal Portfolio Website** – Personal website built with HTML and CSS.
+  * [**Personal Portfolio Website**](https://github.com/Luthfi1006/WEB-Portofolio) – Personal website built with HTML and CSS.
   * **KKL Informatika UPGRIS 2026** – Information website for university field study activities.
   * **Interactive Birthday Letter** – Interactive birthday greeting website.
   * **English Vocabulary Application** – Vocabulary learning application with favorite word management.
@@ -139,6 +139,7 @@
 ### 📫 Connect With Me
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/muhamad-luthfi-abdullah-58841b3b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:luthfiabdullahmuhamad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/62895333227653"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://instagram.com/mluthfi_1006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
