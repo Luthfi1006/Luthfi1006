@@ -27,12 +27,10 @@
 
 ---
 
-### 🏆 RPG Trophies & Partner Pokémon
+### 🔥 GitHub Streak Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luthfi1006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies" />
-  <br/><br/>
-  <img src="https://github-readme-pokemon.vercel.app/api?username=Luthfi1006" alt="Partner Pokemon" />
+  <img src="https://streak-stats.demolab.com?user=Luthfi1006&theme=tokyonight&hide_border=true&background=0D1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF" width="85%" alt="GitHub Streak" />
 </div>
 
 ---
